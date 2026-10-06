@@ -34,7 +34,7 @@ h2{
 
 
 .box{
-    height: 550px;
+    height: 590px;
     width: 600px;
     background-color:  #F8F5EF;
     border-radius: 10px;
@@ -45,7 +45,7 @@ h2{
 }
 
 label{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 600;
     margin-bottom: 5px;
 }
@@ -116,7 +116,7 @@ button:hover {
 }
 .signup {
     text-align: center;
-    font-size: 13px;
+    font-size: 17px;
     margin-top: 15px;
 }
 .signup a {

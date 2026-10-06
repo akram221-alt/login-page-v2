@@ -20,13 +20,14 @@ body{
 h1{
     color:   #342721;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 6px;
     font-size: 32px;
     font-weight: 800;
+    
 }
 h2{
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
     color: #342721;
     margin-bottom: 50px;
@@ -34,7 +35,7 @@ h2{
 
 
 .box{
-    height: 550px;
+    height: 500px;
     width: 600px;
     background-color:  #F8F5EF;
     border-radius: 10px;
@@ -60,7 +61,7 @@ label{
     width: 100%;
     padding: 12px 15px 12px 35px;
     font-size: 14px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border: none;
     border-radius: 8px;
     outline: none;
@@ -101,7 +102,7 @@ button:hover {
     display: flex;
     align-items: center;
     gap: 5px;
-    margin: 0;
+    margin: 10;
 }
 .links {
     display: flex;
@@ -116,14 +117,19 @@ button:hover {
 }
 .signup {
     text-align: center;
-    font-size: 13px;
+    font-size: 18px;
     margin-top: 15px;
 }
 .signup a {
     color: #b45f06;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
 }
 .signup a:hover {
     text-decoration: underline;
+}
+.para{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
 }
